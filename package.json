@@ -1,0 +1,22 @@
+{
+  "name": "insta2youtube",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Open source for getting instagram user dp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranjal Maurya",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "instagram-scraper-api": "^1.0.1",
+    "node-fetch": "^3.1.0",
+    "youtube-mp3-downloader": "^0.7.10",
+    "ytdl-core": "^4.9.1"
+  }
+}
